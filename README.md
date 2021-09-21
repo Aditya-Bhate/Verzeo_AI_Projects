@@ -166,7 +166,6 @@ The folder consists of Audio-specific neural network model and a speech translat
  <img src="/Verzeo_Minor_Project/Success_Images/detection.JPG"  width=375 height=250>
 ---
 
-## Author Info
-- Linkedin - [Gursimar Singh Bedi](https://www.linkedin.com/in/gursimar-singh-bedi-31439a170)
+❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
 
 [Back to the top](#Verzeo_AI_Projects)
